@@ -12,11 +12,12 @@
 }
 
 body {
-    display: flex;
+    background: url(iii.webp);
+     display: flex;
     justify-content: center;
     align-items: center;
     padding: 16px 21px 18px 21px;
-    background: var(--cor-gradiente-preto);
+   
     height: 100vh;
     flex-direction: column;
 }
@@ -47,7 +48,7 @@ h1 {
     gap: 0.625rem;
     align-self: stretch;
     border-radius: 0.625rem;
-    background: #FFF;
+    background: #00000062;
     font-size: 2rem;
 }
 
